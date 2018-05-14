@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "redhung10<jasphi168@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.3.2"
+  }
 }
